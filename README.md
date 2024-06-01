@@ -5,10 +5,10 @@
   <a href="www.linkedin.com/in/denis-glushko-6b2a3b310">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="glushkodenisdm@gmail.com">
+  <a href="mailto:glushkodenisdm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="@plplrka">
+  <a href="https://web.telegram.org/k/#@plplrka">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
