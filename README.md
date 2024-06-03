@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/denis-glushko-6b2a3b310">
+  <a href="https://www.linkedin.com/in/denis-glushko-6b2a3b310">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:glushkodenisdm@gmail.com">
